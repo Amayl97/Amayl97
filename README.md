@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I'm Amayl
 
-<!--
-**Amayl97/Amayl97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student at Punjab University
+💻 Specialized in Web Development
 
-Here are some ideas to get you started:
+🔧 Skills & Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Frontend & Backend Web Dev
+
+⚙️ JavaScript, HTML, CSS, GSAP, Js, ReactJs, PHP, SQL, NodeJs
+
+🚀 Always exploring new tech
+
+🛠️ Building projects to learn & grow
+
+📚 Passionate about clean code & continuous learning
+
+🤝 Open to collaboration and contributing to open-source!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amayl97&show_icons=true&theme=radical)
