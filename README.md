@@ -12,7 +12,5 @@ Hi, I’m Amayl Tariq.<br>💻 I’m an IT student aspiring to become a Software
 ![](https://streak-stats.demolab.com/?user=Amayl97&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amayl97&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Amayl97&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
